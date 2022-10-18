@@ -31,6 +31,11 @@
     "react-excel-renderer": "^1.1.0",
     "react-helmet": "^6.1.0",
     "react-perfect-scrollbar": "^1.5.8",
+    "react-quill": "^2.0.0",
+    "react-redux": "^8.0.2",
+    "react-router": "^6.3.0",
+    "react-router-dom": "^6.3.0",
+    "react-spring": "^9.5.2",
   
     "react": "^18.2.0",
     "react-scripts": "^5.0.1",
